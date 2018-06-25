@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 #title:  "Setup Github Pages Firstly!"
 date:   2018-06-25 14:47:03 +0800
 ---
