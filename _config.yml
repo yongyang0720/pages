@@ -17,7 +17,7 @@ title: Yong's Pages
 email: yongyang0720@126.com
 description: Yong's Pages
 baseurl: / # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yongyang0720.github.io/pages/" #the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yongyang0720@gmail.com
 github_username:  yongyang0720
 
